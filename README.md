@@ -1,1 +1,3 @@
-# fedex-items-1
+# items-ms
+Items API project 
+#Updated
